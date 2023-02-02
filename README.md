@@ -1,5 +1,5 @@
 # Sobre o projeto
-Realizei um projeto para que o usuário tenha mais controle sobre sua vida financeira e que facilite o controle de suas despesas.
+Realizei um sistema para que o usuário tenha mais controle sobre sua vida financeira e que facilite o controle de suas despesas.
 
 # Tecnologias utilizadas
 ## Back end
